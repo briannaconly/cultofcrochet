@@ -1,0 +1,154 @@
+/*Brianna Conly*/
+/*Cult of Crochet*/
+/*CTEC 130-901*/
+
+html {
+    background-color: #E9D3FF;
+}
+/*header div styles*/
+.headerTitle {
+    position: relative;
+    z-index: 1;
+    margin-top: -40px;
+    margin: auto;
+    width: 700px;
+}
+/*header image*/
+div .headImg {
+    position: absolute;
+    opacity: 0.5;
+    z-index: -1;
+    margin-top: -25px;
+    margin: auto;
+    width: 100%;
+    height: 180px;
+}
+/*title styles*/
+title {
+    font: bold;
+    font-family: 'Dancing Script', cursive;
+}
+/*heading at top of page*/
+.heading {
+    margin-left: 200px;
+    width: 1000px;  
+}
+/*h1, h2, h3*/
+h1{
+    border: 100px;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+h2 {
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+h3 {
+    font: normal;
+    text-align: center;
+}
+/*class current*/
+.current {
+    color: black;
+}
+/*navigation bar*/
+nav {
+    font-family: 'Dancing Script', cursive;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #008280;
+}
+li {
+    display: inline;
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+/*mouse hover over nav bar*/
+li a:hover {
+    background-color: #08979D;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+}
+/*main*/
+main {
+    font-family: 'Raleway', sans-serif;
+}
+/*unvisited link*/
+a:link {
+    color: #008280;
+}
+/*mouse hovers over link*/
+a:hover {
+    color: white;
+}
+/*image of main yarn on couch*/
+.mainImg {
+    padding-right: 20px;
+    padding-left: 10px;
+}
+/*image of berry stitch blanket*/
+.berryImg {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+/*image of star blanket*/
+.rippleImg {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+/*image of parker newborn set*/
+.newbornSetImg {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+/*unordered list*/
+.list {
+    width: 20%;
+    height: 35%;
+    background-color: #E9D3FF;
+    padding: 32px;
+    margin: 10px;
+}
+/*each line on unordered list*/
+.yarn {
+    background: url(../images/yarn-ball2.jpg) no-repeat left top;
+    display: list-item;
+    margin: 5px 5px 5px 5px;
+    width: 100%;
+    height: 50px;
+    padding-left: 44px;
+    padding-top: 3px;
+}
+.yarn a {
+    margin-top: -20px;
+}
+/*styles for paragraph*/
+.p1 {
+    text-indent: 5%;
+    font-size: 20px;
+    margin-bottom: 260px;
+}
+/*styles for paragraph*/
+.p2 {
+    text-indent: 5%;
+    font-size: 20px;
+}
+/*footer*/
+footer {
+    font-family: 'Raleway', sans-serif;
+    background-color: #008280;
+}
