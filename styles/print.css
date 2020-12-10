@@ -1,0 +1,44 @@
+/*Brianna Conly*/
+/*Cult of Crochet*/
+/*CTEC 130-901*/
+
+/*h1 h2 h3*/
+h1{
+    border: 100px;
+    font-size: 50px;
+    font-family: serif;
+}
+h2 {
+    font-size: 30px;
+    font-family: serif;
+}
+h3 {
+    font: normal;
+    text-align: center;
+}
+/*navigation bar*/
+nav {
+    font-family: serif;
+    color: black;
+}
+/*paragraph*/
+p {
+    font-family: serif;
+}
+/*table head*/
+th {
+    font-family: serif;
+}
+/*videos class vidDiv*/
+.vidDiv {
+    display: none;
+}
+/*class yarn*/
+.yarn {
+    font-family: serif;
+    color: black;
+}
+/*class list*/
+.list {
+    height: 200px;
+}

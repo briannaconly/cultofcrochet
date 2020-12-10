@@ -2,6 +2,7 @@
 /*Cult of Crochet*/
 /*CTEC 130-901*/
 
+/*html background color*/
 html {
     background-color: #E9D3FF;
 }
@@ -86,7 +87,7 @@ main {
 }
 /*unvisited link*/
 a:link {
-    color: #008280;
+    color: white;
 }
 /*mouse hovers over link*/
 a:hover {
@@ -123,7 +124,7 @@ a:hover {
     padding: 32px;
     margin: 10px;
 }
-/*each line on unordered list*/
+/*class yarn*/
 .yarn {
     background: url(../images/yarn-ball2.jpg) no-repeat left top;
     display: list-item;
@@ -133,6 +134,7 @@ a:hover {
     padding-left: 44px;
     padding-top: 3px;
 }
+/*class yarn anchor tag*/
 .yarn a {
     margin-top: -20px;
 }
